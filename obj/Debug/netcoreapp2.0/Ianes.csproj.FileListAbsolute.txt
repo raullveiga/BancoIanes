@@ -1,0 +1,10 @@
+C:\~~\Ianes\bin\Debug\netcoreapp2.0\Ianes.deps.json
+C:\~~\Ianes\bin\Debug\netcoreapp2.0\Ianes.runtimeconfig.json
+C:\~~\Ianes\bin\Debug\netcoreapp2.0\Ianes.runtimeconfig.dev.json
+C:\~~\Ianes\bin\Debug\netcoreapp2.0\Ianes.dll
+C:\~~\Ianes\bin\Debug\netcoreapp2.0\Ianes.pdb
+C:\~~\Ianes\obj\Debug\netcoreapp2.0\Ianes.csproj.CoreCompileInputs.cache
+C:\~~\Ianes\obj\Debug\netcoreapp2.0\Ianes.AssemblyInfoInputs.cache
+C:\~~\Ianes\obj\Debug\netcoreapp2.0\Ianes.AssemblyInfo.cs
+C:\~~\Ianes\obj\Debug\netcoreapp2.0\Ianes.dll
+C:\~~\Ianes\obj\Debug\netcoreapp2.0\Ianes.pdb
